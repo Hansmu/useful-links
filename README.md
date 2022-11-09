@@ -13,6 +13,7 @@ Used keywords:
 * PROJECT STRUCTURE
 * REFACTOR
 * TOOLS
+* REACT
 
 <hr/>
 
@@ -221,3 +222,30 @@ The ECMAScript Language specification (aka. the JavaScript specification, or ECM
 ```
 
 Keywords: JAVASCRIPT
+
+
+
+<hr/>
+
+Title: [Javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices)
+
+Description: 
+```
+This is a guide for JavaScript & Node.js reliability from A-Z. It summarizes and curates for you dozens of the best blog posts, books and tools the market has to offer
+```
+
+Keywords: JAVASCRIPT, TESTING
+
+
+
+<hr/>
+
+Title: [Blogged Answers: A (Mostly) Complete Guide to React Rendering Behavior](https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/)
+
+Description: 
+```
+Details on how React rendering behaves, and how use of Context and React-Redux affect rendering
+```
+
+Keywords: JAVASCRIPT, REACT, CODE
+
