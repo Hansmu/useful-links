@@ -14,6 +14,8 @@ Used keywords:
 * REFACTOR
 * TOOLS
 * REACT
+* ARCHITECTURE
+* EVENTS
 
 <hr/>
 
@@ -248,4 +250,19 @@ Details on how React rendering behaves, and how use of Context and React-Redux a
 ```
 
 Keywords: JAVASCRIPT, REACT, CODE
+
+
+
+
+<hr/>
+
+Title: [The Many Meanings of Event-Driven Architecture • Martin Fowler • GOTO 2017](https://youtu.be/STKCRSUsyP0)
+
+Description: 
+```
+ABSTRACT
+During my career, I've often people heard people describe their systems as "event-driven". But when looking deeper that phrase seems to lead to some very different architectural assumptions. On a recent workshop we identified four different patterns
+```
+
+Keywords: ARCHITECTURE, EVENTS
 
