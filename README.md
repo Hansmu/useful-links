@@ -16,6 +16,8 @@ Used keywords:
 * REACT
 * ARCHITECTURE
 * EVENTS
+* CODE REVIEW
+* ONBOARDING
 
 <hr/>
 
@@ -266,3 +268,42 @@ During my career, I've often people heard people describe their systems as "even
 
 Keywords: ARCHITECTURE, EVENTS
 
+
+<hr/>
+
+Title: [How to Review Code as a Junior Developer]([https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958])
+
+Description: 
+```
+“Just ask questions.”
+
+That was the piece of advice that completely changed my perspective on code reviews.
+```
+
+Keywords: CODE REVIEW, CODE
+
+
+
+<hr/>
+
+Title: [The Ultimate Guide to Onboarding Software Engineers]([https://leadership.garden/onboarding-engineers/])
+
+Description: 
+```
+Learn how to onboard engineers with an empathetic and structured approach. Includes a 30-60-90-day check-in template.
+```
+
+Keywords: ONBOARDING
+
+
+
+<hr/>
+
+Title: [Console for Mobile Browsers.]([https://github.com/liriliri/eruda])
+
+Description: 
+```
+Console for Mobile Browsers.
+```
+
+Keywords: CODE
