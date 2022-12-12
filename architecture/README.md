@@ -2,6 +2,7 @@
 
 Used keywords:
 * EVENTS
+* DOCUMENTING
 
 
 <hr/>
@@ -15,3 +16,15 @@ During my career, I've often people heard people describe their systems as "even
 ```
 
 Keywords: EVENTS
+
+
+<hr/>
+
+Title: [AWS Publishes Guide to Architecture Decision Records](https://www.infoq.com/news/2022/06/aws-adr-guide/)
+
+Description:
+```
+Amazon Web Services has published a guide for using architecture decision records (ADRs). They recommend a process to adopt and review ADRs in software engineering teams. The process results in a collection of approved, rejected, or superseded ADRs in a decision log.
+```
+
+Keywords: DOCUMENTING
