@@ -2,6 +2,8 @@
 
 Links are grouped by different areas:
 
+[Algorithms](./algorithms/README.md)
+
 [Code architecture](./architecture/README.md)
 
 [Backend specific](./backend/README.md)
