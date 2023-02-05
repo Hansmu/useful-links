@@ -3,6 +3,8 @@
 Used keywords:
 * EVENTS
 * DOCUMENTING
+* PATTERNS
+* SYSTEM DESIGN
 
 
 <hr/>
@@ -28,3 +30,47 @@ Amazon Web Services has published a guide for using architecture decision record
 ```
 
 Keywords: DOCUMENTING
+
+<hr/>
+
+Title: [Awesome Software and Architectural Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+
+Description:
+```
+A curated list of software and architecture related design patterns.
+```
+
+Keywords: PATTERNS
+
+<hr/>
+
+Title: [Failure post mortems](https://github.com/danluu/post-mortems)
+
+Description:
+```
+A List of Post-mortems!
+```
+
+Keywords: DOCUMENTING
+
+<hr/>
+
+Title: [System design primer](https://github.com/donnemartin/system-design-prime)
+
+Description:
+```
+System design primer.
+```
+
+Keywords: SYSTEM DESIGN
+
+<hr/>
+
+Title: [Cloud design patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+
+Description:
+```
+These design patterns are useful for building reliable, scalable, secure applications in the cloud.
+```
+
+Keywords: PATTERNS

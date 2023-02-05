@@ -8,6 +8,7 @@ Used keywords:
 * PATTERNS
 * FEATURES
 * CORS
+* PATTERNS
 
 <hr/>
 
@@ -64,6 +65,7 @@ Anyway, I figured I'd write down pretty much everything I know about CORS, and t
 ```
 
 Keywords: CORS
+
 <hr/>
 
 Title: [Improve test error messages of your abstractions](https://kentcdodds.com/blog/improve-test-error-messages-of-your-abstractions)
@@ -74,3 +76,14 @@ Improve test error messages of your abstractions
 ```
 
 Keywords: TESTING
+
+<hr/>
+
+Title: [Design patterns](https://www.patterns.dev/posts/introduction/)
+
+Description:
+```
+JS design patterns
+```
+
+Keywords: PATTERNS
