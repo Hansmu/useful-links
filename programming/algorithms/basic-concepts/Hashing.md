@@ -12,10 +12,10 @@ the reverse the hash into the original message.
 Hashing is relevant to -- but not limited to -- data indexing and retrieval,
 digital signatures, cyber-security and cryptography.
 
-In data retrieval, hashing is used to more easily find indexes. [More about it here.](./HashingDataRetrieval.md)
+In data retrieval, hashing is used to more easily find indexes. [More about it here.](HashingDataRetrieval.md)
 
 In digital signatures, it is used to verify the message contents. [An explanation of it
-is here.](./DigitalSignatures.md)
+is here.](DigitalSignatures.md)
 
 In cyber-security, an example would be the storing of data. If data is hashed, then
 it cannot be reversed to get the data. For example passwords in a database. If a 

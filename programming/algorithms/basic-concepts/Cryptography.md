@@ -24,7 +24,7 @@ So what do we need:
 for scrambling a message is called a cypher.
 3. A secret key
 
-![Symmetric crypto](./images/symmetric-key-crypto.png)
+![Symmetric crypto](images/symmetric-key-crypto.png)
 
 How do we get the secret key to the other party?
 
@@ -43,7 +43,7 @@ public keys.
 4. The initiating party uses that encryption key to encrypt the data to send.
 5. The data is received and decrypted using the decryption key.
 
-![Asymmetric crypto](./images/asymmetric-key-crypto.png)
+![Asymmetric crypto](images/asymmetric-key-crypto.png)
 
 Asymmetric encryption is only good for small messages. However, to get around
 this, symmetric keys can be used. The asymmetric mechanism could be used to exchange

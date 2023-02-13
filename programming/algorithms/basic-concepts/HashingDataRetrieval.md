@@ -46,7 +46,7 @@ if it's taken, you look at 7, until you find an empty slot.
 When getting data with collisions, then you have to apply the same algorithm. Get the
 index, see if it contains the correct data, if not, look at the next position and so on.
 
-![Linear probing with collisions](./images/linear_probing.png)
+![Linear probing with collisions](images/linear_probing.png)
 
 The more items there are in a hash table, the more likely you are to get collisions
 as you enter more data. One way to deal with this is to make the hash table bigger
@@ -66,7 +66,7 @@ Another way to deal with collisions is to use chaining, also known as closed add
 In that structure, each element is a pointer to the first element of a linked list that
 contains the data.
 
-![Closed addressing](./images/closed-addressing.png)
+![Closed addressing](images/closed-addressing.png)
 
 To find elements from it, you'd calculate the index and then use standard linked list
 traversal to find what you're looking for.

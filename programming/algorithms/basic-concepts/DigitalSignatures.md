@@ -19,7 +19,7 @@ it to the hash that was received from decryption.
 6. The receiver compares the two hashes and if they match, then they can be sure that
 what the sender signed, was the document with this specific content.
 
-![Digital signature](./images/digital-signature.png)
+![Digital signature](images/digital-signature.png)
 
 Now anyone could have been pretending to be the sender. If the public key was sent
 with the message, then there's no certainty that the sender was, indeed, who they said
@@ -35,7 +35,7 @@ checks the details about the sender before adding their public key to their vaul
 digital certificate into its vault.
 4. Also send the certificate back to the sender.
 
-![Certification authority](./images/certification-authority.png)
+![Certification authority](images/certification-authority.png)
 
 Now when the sender sends the request, they can include the digital certificate with
 it or let the receiver look it up themselves from a Certification Authority.

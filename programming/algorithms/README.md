@@ -6,7 +6,7 @@ Used keywords:
 
 <hr/>
 
-Title: [Explanation of hashing](./basic-concepts/Hashing.md)
+Title: [Explanation of hashing](basic-concepts/Hashing.md)
 
 Description:
 ```
@@ -17,7 +17,7 @@ Keywords: HASHING
 
 <hr/>
 
-Title: [Explanation of hashing in data retrieval](./basic-concepts/HashingDataRetrieval.md)
+Title: [Explanation of hashing in data retrieval](basic-concepts/HashingDataRetrieval.md)
 
 Description:
 ```
@@ -28,7 +28,7 @@ Keywords: HASHING
 
 <hr/>
 
-Title: [Explanation of cryptography](./basic-concepts/Cryptography.md)
+Title: [Explanation of cryptography](basic-concepts/Cryptography.md)
 
 Description:
 ```
@@ -39,7 +39,7 @@ Keywords: CRYPTOGRAPHY
 
 <hr/>
 
-Title: [Digital signatures](./basic-concepts/DigitalSignatures.md)
+Title: [Digital signatures](basic-concepts/DigitalSignatures.md)
 
 Description:
 ```
@@ -50,7 +50,7 @@ Keywords: CRYPTOGRAPHY, HASHING
 
 <hr/>
 
-Title: [Explanation of consistent hashing](./ConsistentHashing.md)
+Title: [Explanation of consistent hashing](ConsistentHashing.md)
 
 Description:
 ```
