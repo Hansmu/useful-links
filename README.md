@@ -23,6 +23,8 @@ Links are grouped by different areas:
 
 > [Different useful tools](programming/tools/README.md)
 
+> [Newsletters](programming/newsletters/README.md)
+
 
 ## Other
 
