@@ -9,6 +9,8 @@ Used keywords:
 * FEATURES
 * CORS
 * PATTERNS
+* RUNTIME TYPES
+* BENCHMARK
 
 <hr/>
 
@@ -87,3 +89,17 @@ JS design patterns
 ```
 
 Keywords: PATTERNS
+
+<hr/>
+
+Title: [Typescript runtime benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks)
+
+Description:
+```
+Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
+```
+
+Keywords: RUNTIME TYPES, BENCHMARK
+
+
+
