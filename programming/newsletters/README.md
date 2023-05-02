@@ -43,17 +43,6 @@ Keywords: SOFTWARE
 
 <hr/>
 
-Title: [InfoQ](https://www.infoq.com/)
-
-Description:
-```
-Facilitating the Spread of Knowledge and Innovation in Professional Software Development
-```
-
-Keywords: SOFTWARE
-
-<hr/>
-
 Title: [ByteByteGo](https://blog.bytebytego.com/)
 
 Description:
