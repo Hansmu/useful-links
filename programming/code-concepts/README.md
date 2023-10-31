@@ -9,6 +9,7 @@ Used keywords:
 * REPETITION
 * COMPLEXITY
 * VERSION CONTROL
+* SOLVING PROBLEMS
 
 <hr/>
 
@@ -85,3 +86,15 @@ High-quality Git commits are the key to a maintainable and collaborative open- o
 ```
 
 Keywords: DESCRIPTIVE, VERSION CONTROL
+
+<hr/>
+
+Title: [The XY Problem](https://xyproblem.info/)
+
+Description:
+```
+The XY problem is asking about your attempted solution rather than your actual problem.
+
+```
+
+Keywords: SOLVING PROBLEMS
