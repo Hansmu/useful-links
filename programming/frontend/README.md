@@ -4,6 +4,7 @@ Used keywords:
 * ACCESSIBILITY
 * COMPONENTS
 * TOOL
+* RENDERING
 
 <hr/>
 
@@ -40,3 +41,16 @@ The WAVE Chrome, Firefox, and Edge extensions allows you to evaluate web content
 ```
 
 Keywords: ACCESSIBILITY, TOOLS
+
+
+
+<hr/>
+
+Title: [Rendering on the Web](https://web.dev/articles/rendering-on-the-web)
+
+Description:
+```
+Where should we implement logic and rendering in our applications? Should we use Server Side Rendering? What about Rehydration? Let's find some answers!
+```
+
+Keywords: RENDERING
