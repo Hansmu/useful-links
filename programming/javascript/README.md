@@ -8,7 +8,6 @@ Used keywords:
 * PATTERNS
 * FEATURES
 * CORS
-* PATTERNS
 * RUNTIME TYPES
 * BENCHMARK
 
@@ -100,6 +99,18 @@ Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 ```
 
 Keywords: RUNTIME TYPES, BENCHMARK
+
+
+<hr/>
+
+Title: [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts?tab=readme-ov-file#-table-of-contents)
+
+Description:
+```
+This repository was created with the intention of helping developers master their concepts in JavaScript.
+```
+
+Keywords: DIVISION, PATTERNS, FEATURES
 
 
 
