@@ -8,6 +8,7 @@ Used keywords:
 * COMPONENTS
 * RENDERING
 * NEXTJS
+* LIBRARY
 
 <hr/>
 
@@ -52,3 +53,15 @@ In this article, Nirmalya discusses some of the complex problems that he faced w
 ```
 
 Keywords: TOOLS, DIVISION, NEXTJS
+
+<hr/>
+
+Title: [React Library Suggestions 2024](https://www.robinwieruch.de/react-libraries/)
+
+Description:
+```
+Some library suggestions for 2024
+```
+
+Keywords: TOOLS, LIBRARY
+
