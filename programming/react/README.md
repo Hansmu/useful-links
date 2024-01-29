@@ -65,3 +65,15 @@ Some library suggestions for 2024
 
 Keywords: TOOLS, LIBRARY
 
+
+<hr/>
+
+Title: [Prop drilling and component composition in React](https://alexsidorenko.com/blog/react-prop-drilling-composition/)
+
+Description:
+```
+Nice visualizations for prop drilling and component composition.
+```
+
+Keywords: PATTERNS
+
