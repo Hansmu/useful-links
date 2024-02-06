@@ -98,3 +98,15 @@ The XY problem is asking about your attempted solution rather than your actual p
 ```
 
 Keywords: SOLVING PROBLEMS
+
+<hr/>
+
+Title: [Goodbye Clean Code](https://overreacted.io/goodbye-clean-code/)
+
+Description:
+```
+An article about questioning the blind application of clean code.
+
+```
+
+Keywords: PATTERNS, DIVISION
