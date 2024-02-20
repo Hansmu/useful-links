@@ -113,4 +113,16 @@ This repository was created with the intention of helping developers master thei
 Keywords: DIVISION, PATTERNS, FEATURES
 
 
+<hr/>
+
+Title: [Type vs Interface: Which Should You Use?](https://www.totaltypescript.com/type-vs-interface-which-should-you-use)
+
+Description:
+```
+When to prefer interface over type?
+```
+
+Keywords: PATTERNS
+
+
 
