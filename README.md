@@ -25,6 +25,7 @@ Links are grouped by different areas:
 
 > [Newsletters](programming/newsletters/README.md)
 
+> [Growth resources](programming/growth/README.md)
 
 ## Other
 
