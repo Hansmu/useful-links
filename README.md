@@ -27,6 +27,8 @@ Links are grouped by different areas:
 
 > [Growth resources](programming/growth/README.md)
 
+> [Code snippets](programming/code-snippets/README.md)
+
 ## Other
 
 > [Learning and memory](./other/memory-and-learning/Readme.md)
