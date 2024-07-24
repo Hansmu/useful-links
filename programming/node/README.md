@@ -4,6 +4,7 @@ Used keywords:
 * PROJECT STRUCTURE
 * DIVISION
 * TESTING
+* STREAMS
 
 <hr/>
 
@@ -38,3 +39,15 @@ Master the art of the most powerful testing technique for backend
 ```
 
 Keywords: TESTING
+
+
+<hr/>
+
+Title: [A guide to reading and writing Node.js streams](https://blog.platformatic.dev/a-guide-to-reading-and-writing-nodejs-streams)
+
+Description:
+```
+A guide on how to read and write using streams in Node.js
+```
+
+Keywords: STREAMS
