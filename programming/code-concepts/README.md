@@ -110,3 +110,16 @@ An article about questioning the blind application of clean code.
 ```
 
 Keywords: PATTERNS, DIVISION
+
+
+<hr/>
+
+Title: [Cognitive Load is what matters](https://github.com/zakirullin/cognitive-load)
+
+Description:
+```
+An article about cognitive load.
+
+```
+
+Keywords: DESCRIPTIVE, COMPLEXITY, DIVISION
