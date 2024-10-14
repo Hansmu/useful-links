@@ -3,6 +3,7 @@
 Used keywords:
 * ONBOARDING
 * CODE REVIEW
+* DOCUMENTATION
 * FEEDBACK
 
 <hr/>
@@ -39,3 +40,14 @@ If you want to get the feedback that is necessary to improve your leadership, th
 ```
 
 Keywords: FEEDBACK
+
+<hr/>
+
+Title: [Investing in Internal Documentation: A Brick-by-Brick Guide for Startups]([https://review.firstround.com/investing-in-internal-documentation-a-brick-by-brick-guide-for-startups/])
+
+Description:
+```
+David Nunez, an early hire at Stripe and Uber, shares his step-by-step playbook for establishing good internal documentation habits at your startup. He unpacks his tested tactics for creating a culture of documentation, setting the quality bar and keeping things organized. 
+```
+
+Keywords: DOCUMENTATION
