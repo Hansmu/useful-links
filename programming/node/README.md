@@ -5,6 +5,7 @@ Used keywords:
 * DIVISION
 * TESTING
 * STREAMS
+* EFFICIENCY
 
 <hr/>
 
@@ -51,3 +52,15 @@ A guide on how to read and write using streams in Node.js
 ```
 
 Keywords: STREAMS
+
+
+<hr/>
+
+Title: [There are a lot of ways to break up long tasks in JavaScript.](https://macarthur.me/posts/long-tasks/)
+
+Description:
+```
+It's very common to intentionally break up long, expensive tasks over multiple ticks of the event loop. But there are sure are a lot of approaches to choose from. Let's explore them.
+```
+
+Keywords: EFFICIENCY
