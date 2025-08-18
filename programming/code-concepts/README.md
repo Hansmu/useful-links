@@ -123,3 +123,19 @@ An article about cognitive load.
 ```
 
 Keywords: DESCRIPTIVE, COMPLEXITY, DIVISION
+
+
+
+<hr/>
+
+Title: [Falsehoods programmers believe about time](https://gist.github.com/timvisee/fcda9bbdff88d45cc9061606b4b923ca)
+
+Description:
+```
+This is a compiled list of falsehoods programmers tend to believe about working with time.
+
+Don't re-invent a date time library yourself. If you think you understand everything about time, you're probably doing it wrong.
+
+```
+
+Keywords: COMPLEXITY
