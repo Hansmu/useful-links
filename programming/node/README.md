@@ -6,6 +6,7 @@ Used keywords:
 * TESTING
 * STREAMS
 * EFFICIENCY
+* DEPENDENCIES
 
 <hr/>
 
@@ -64,3 +65,14 @@ It's very common to intentionally break up long, expensive tasks over multiple t
 ```
 
 Keywords: EFFICIENCY
+
+<hr/>
+
+Title: [Delightful Node.js packages and resources ](https://github.com/sindresorhus/awesome-nodejs)
+
+Description:
+```
+A list of useful Node.js libraries.
+```
+
+Keywords: DEPENDENCIES
