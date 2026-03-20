@@ -29,6 +29,8 @@ Links are grouped by different areas:
 
 > [Code snippets](programming/code-snippets/README.md)
 
+> [AI](programming/ai/README.md)
+
 ## Other
 
 > [Learning and memory](./other/memory-and-learning/Readme.md)
